@@ -1,7 +1,7 @@
 /* Select the image with a class of kitty-1 */
 
 /*__write_selector_here__*/ {
-  position: absolute;
+  position: center;
   z-index: 1;
   top: 200px;
   left: 129px;
